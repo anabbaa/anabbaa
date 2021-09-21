@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://sass.com" target="_blank"> <img src="https://www.hugeserver.com/kb/wp-content/uploads/2017/12/expresslogo.png"/> </a> 
-    <a href="https://expressjs.com/en/guide/migrating-4.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a> 
+    <a href="https://expressjs.com/en/guide/migrating-4.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png" width="4vw"/, height="4vh> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     
 </p>
