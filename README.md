@@ -25,4 +25,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Web_application_framework-Express-informational?style=flat&logo=Express&logoColor=black&color=blueviolet)
 ![](https://img.shields.io/badge/NoSQL_database-mongoDB-informational?style=flat&logo=mongoDB&logoColor=green&color=blueviolet)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iulianSta&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
