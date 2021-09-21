@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=anabbaa.nabbaa)
 
-![anabbaa's github stats](https://github-readme-stats.vercel.app/api?username=anabbaa_private=true&theme=tokyonight&hide=contribs,prs)
+  ![anabbaa's github stats](https://github-readme-stats.vercel.app/api?username=anabbaa&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 
 
