@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to a new job after Graduating
 - 📫 How to reach me:
 
+  [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-nabaa/)
+
+
 
 ## 🚀 Languages and Tools:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=yellow&color=blueviolet) 
