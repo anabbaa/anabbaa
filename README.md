@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
 
   [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-nabaa/)
+  
+    [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](ahmed.nabaa.an@gmail.com)
+
 
 
 
@@ -29,7 +32,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Web_application_framework-Express-informational?style=flat&logo=Express&logoColor=black&color=blueviolet)
 ![](https://img.shields.io/badge/NoSQL_database-mongoDB-informational?style=flat&logo=mongoDB&logoColor=green&color=blueviolet)
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iulianSta&theme=chartreuse-dark)](https://github.com/anabbaa)
 
 
 
