@@ -14,17 +14,15 @@ Here are some ideas to get you started:
 
 
 ## 🚀 Languages and Tools:
-<p align="left"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://sass.com" target="_blank">  <img src="https://img.icons8.com/color/48/000000/sass.png"   /></a> 
-    <a href="https://expressjs.com/en/guide/migrating-4.html" target="_blank"> <img src=""/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank">  <img style="width:2vw; height:6vh; margin-top: 66vh"src= "https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" /></a> 
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=yellow&color=blueviolet) 
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=blue&color=blueviolet) 
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=yellow&color=blueviolet) 
+![](https://img.shields.io/badge/Markup_lang-HTML-informational?style=flat&logo=HTML5&logoColor=red&color=blueviolet) 
+![](https://img.shields.io/badge/Style_sheet_lang-CSS-informational?style=flat&logo=CSS3&logoColor=skyblue&color=blueviolet)
+![](https://img.shields.io/badge/Css_extension_lang-SASS-informational?style=flat&logo=SASS&logoColor=violet&color=blueviolet)\
+![](https://img.shields.io/badge/JavaScript_engine-Node.js-informational?style=flat&logo=Node.js&logoColor=green&color=blueviolet)
+![](https://img.shields.io/badge/JavaScript_library-React-informational?style=flat&logo=React&logoColor=aqua&color=blueviolet)
+![](https://img.shields.io/badge/Web_application_framework-Express-informational?style=flat&logo=Express&logoColor=black&color=blueviolet)
+![](https://img.shields.io/badge/NoSQL_database-mongoDB-informational?style=flat&logo=mongoDB&logoColor=green&color=blueviolet)
 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    
-</p>
 
