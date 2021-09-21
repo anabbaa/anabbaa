@@ -22,7 +22,9 @@ Here are some ideas to get you started:
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://sass.com" target="_blank">  <img src="https://img.icons8.com/color/48/000000/sass.png"   /></a> 
     <a href="https://expressjs.com/en/guide/migrating-4.html" target="_blank"> <img src=""/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank">  <img style="width:2vw; height:6vh"src= "https://cdn.icon-icons.com/icons2/3053/PNG/512/mongodb_compass_macos_bigsur_icon_189933.png" /></a> 
+    <a href="https://www.mongodb.com/" target="_blank">  <img style="width:2vw; height:6vh"src= "
+
+" /></a> 
 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     
