@@ -35,9 +35,10 @@ Here are some ideas to get you started:
 
 
 ## My states
-  ![anabbaa's github stats](https://github-readme-stats.vercel.app/api?username=anabbaa&count_private=true&theme=tokyonight&hide=contribs,prs)
   
   ![Github stats](https://github-readme-stats.vercel.app/api?username=anabbaa&theme=highcontrast&show_icons=true&count_private=true)
+  
+  ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=anabbaa)
   
 
 
