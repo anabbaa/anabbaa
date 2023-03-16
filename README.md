@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 ## 🚀 Languages and Tools:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=yellow&color=blueviolet) 
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fthenewstack.io%2Ftypescript-tutorial-a-guide-to-using-the-programming-language%2F&psig=AOvVaw1-_OFf2VA7i_rFedrbBJTY&ust=1679061972301000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMCCyLXP4P0CFQAAAAAdAAAAABAE) 
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=blue&color=blueviolet) 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=yellow&color=blueviolet) 
 ![](https://img.shields.io/badge/Markup_lang-HTML-informational?style=flat&logo=HTML5&logoColor=red&color=blueviolet) 
