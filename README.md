@@ -9,7 +9,8 @@ Here are some ideas to get you started:
 
 -->
 - 🔭 I have graduated from DCI intensive couzrse 
-- 🌱 I’m currently learning Angular
+- 🌱 Ihave finished a curse in TypeScript
+- :pray:	Now I am learning Jest
 - 👯 I’m looking to a new job after Graduating
 - 📫 How to reach me:
 
